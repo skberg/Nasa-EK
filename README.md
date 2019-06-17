@@ -1,4 +1,4 @@
-# Nasa-EK
+# Nasa-Exam 
 Exam year 1 NASA API JavaScript 
 
 This was my Nasa exsam for year 1 at Noroff Fagskole in oslo, this assignment was nominated to best student work, but did not winn. 
